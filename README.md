@@ -19,4 +19,5 @@ Through concise visualizations and analysis, our project offers valuable insight
 * Additionally, optimization remains an ongoing area for improvement, particularly in maximizing the utilization of NumPy over pandas for enhanced efficiency and performance.
 * For example the following graph is rather shabby and only muddles the insights of this project to readers.
 ![image](https://cdn-images-1.medium.com/max/1000/1*snPPA6CgsLPdJte-qfUJFQ.png)
-[article](https://medium.com/@bishnoi.kanchan4141/google-playstore-app-reviews-2eeda2a1dbfb)
+
+["Playstore Reviews: Unveiling App Insights"](https://medium.com/@bishnoi.kanchan4141/google-playstore-app-reviews-2eeda2a1dbfb) An article diving deep into the processes and insights uncovered by this project.
