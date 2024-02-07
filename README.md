@@ -20,4 +20,4 @@ Through concise visualizations and analysis, our project offers valuable insight
 * For example the following graph is rather shabby and only muddles the insights of this project to readers.
 ![image](https://cdn-images-1.medium.com/max/1000/1*snPPA6CgsLPdJte-qfUJFQ.png)
 
-["Playstore Reviews: Unveiling App Insights"](https://medium.com/@bishnoi.kanchan4141/google-playstore-app-reviews-2eeda2a1dbfb) An article diving deep into the processes and insights uncovered by this project.
+[Playstore Reviews: Unveiling App Insights](https://medium.com/@bishnoi.kanchan4141/google-playstore-app-reviews-2eeda2a1dbfb) An article diving deep into the processes and insights uncovered by this project.
