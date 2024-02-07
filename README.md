@@ -2,7 +2,7 @@
 In this project, I aimed to assess the immediate impact of public response on product sales, focusing on online reviews as a key metric. Using a Google Play Store apps dataset sourced from Kaggle, I formulated analytical questions to explore app performance, user behavior, and market trends. 
 
 # Tech stack
-![image](https://github.com/bishnoi322/Playstore_reviews/assets/127303041/6f01faf5-8e8a-413b-91b0-9ea0a24fc5d8)
+![image](C:\Users\ASUS\Downloads\Welcome to FigJam.png)
 
 # Process
 I started the project with the process of **data cleaning** including  identifying and replacing missing values, rechecking and making sure correct datatypes were being used for smooth analysis. After a throuogh process of data cleaning i moved onto the next process which is **data analysis** and was able to uncover meaningful insights.
